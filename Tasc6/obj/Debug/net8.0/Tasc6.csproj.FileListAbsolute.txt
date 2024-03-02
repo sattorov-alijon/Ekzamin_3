@@ -1,0 +1,14 @@
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\bin\Debug\net8.0\Tasc6.exe
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\bin\Debug\net8.0\Tasc6.deps.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\bin\Debug\net8.0\Tasc6.runtimeconfig.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\bin\Debug\net8.0\Tasc6.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\bin\Debug\net8.0\Tasc6.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.AssemblyInfoInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.AssemblyInfo.cs
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\refint\Tasc6.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\Tasc6.genruntimeconfig.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\exam\Tasc6\obj\Debug\net8.0\ref\Tasc6.dll
